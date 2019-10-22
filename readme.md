@@ -5,6 +5,7 @@
 
 PDF阅读效果
 
-![github](https://github.com/Nrusher/FreeRTOS-Book/blob/master/pic/pdf-show1.png)
-![github](https://github.com/Nrusher/FreeRTOS-Book/tree/master/pic/pdf-show2.png)
+![](https://github.com/Nrusher/FreeRTOS-Book/blob/master/pic/pdf-show1.png)
+
+![](https://github.com/Nrusher/FreeRTOS-Book/blob/master/pic/pdf-show2.png)
 
