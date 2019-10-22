@@ -3,7 +3,7 @@
 - 如果您阅读过程中发现任何问题，欢迎一同探讨。
 - 作者博客：<https://blog.csdn.net/Nrush/article/details/101710626>
 
-PDF阅读效果
+PDF阅读效果见pic文件夹
 
 ![](https://github.com/Nrusher/FreeRTOS-Book/blob/master/pic/pdf-show1.png)
 
