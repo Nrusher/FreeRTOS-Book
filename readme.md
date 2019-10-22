@@ -9,7 +9,3 @@ PDF阅读效果见pic文件夹
 
 ![](https://github.com/Nrusher/FreeRTOS-Book/blob/master/pic/pdf-show2.png)
 
-![](https://gitee.com/nrush/FreeRTOS-Book/blob/master/pic/pdf-show1.png)
-
-![](https://gitee.com/nrush/FreeRTOS-Book/blob/master/pic/pdf-show2.png)
-
